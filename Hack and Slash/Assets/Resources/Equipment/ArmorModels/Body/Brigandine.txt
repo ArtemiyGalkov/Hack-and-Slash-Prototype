@@ -1,0 +1,1 @@
+{"Type":"Body","Id":202,"Name":"Brigandine","Armor":15,"MeshName":"Brigandine","Gender":2}

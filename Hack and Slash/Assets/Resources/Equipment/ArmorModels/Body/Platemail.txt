@@ -1,0 +1,1 @@
+{"Type":"Body","Id":201,"Name":"Platemail","Armor":20,"MeshName":"Platemail","Gender":2}

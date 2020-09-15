@@ -1,0 +1,1 @@
+{"Name":"Bandit","Characteristics":{"MaxHp":100,"MaxMp":0,"Armor":15,"AttackSpeed":1.2,"PhysDamageModificator":1,"MagDamageModificator":1,"MoveSpeed":6},"WeaponName":"Longsword","UnitName":"Bandit"}

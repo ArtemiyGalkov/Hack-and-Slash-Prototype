@@ -1,0 +1,1 @@
+{"Type":"Body","Id":203,"Name":"Rich dress","Armor":0,"MeshName":"Rich dress","Gender":0}

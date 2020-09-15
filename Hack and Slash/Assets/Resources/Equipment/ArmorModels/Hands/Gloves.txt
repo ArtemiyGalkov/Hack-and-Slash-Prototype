@@ -1,0 +1,1 @@
+{"Type":"Hands","Id":401,"Name":"Gloves","Armor":2,"MeshName":"Gloves","Gender":2}

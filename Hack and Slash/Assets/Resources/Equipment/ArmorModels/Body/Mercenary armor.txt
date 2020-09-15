@@ -1,0 +1,1 @@
+{"Type":"Body","Id":205,"Name":"Mercenary armor","Armor":15,"MeshName":"Mercenary armor","Gender":2}

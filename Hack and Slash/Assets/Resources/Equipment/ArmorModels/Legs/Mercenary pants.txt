@@ -1,0 +1,1 @@
+{"Type":"Legs","Id":306,"Name":"Mercenary pants","Armor":3,"MeshName":"Mercenary pants","Gender":2}

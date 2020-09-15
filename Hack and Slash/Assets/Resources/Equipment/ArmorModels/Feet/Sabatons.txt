@@ -1,0 +1,1 @@
+{"Type":"Feet","Id":503,"Name":"Sabatons","Armor":10,"MeshName":"Sabatons","Gender":2}

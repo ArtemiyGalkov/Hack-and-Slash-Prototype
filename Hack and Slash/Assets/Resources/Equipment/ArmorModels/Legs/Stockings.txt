@@ -1,0 +1,1 @@
+{"Type":"Legs","Id":303,"Name":"Stockings","Armor":0,"MeshName":"Stockings","Gender":0}

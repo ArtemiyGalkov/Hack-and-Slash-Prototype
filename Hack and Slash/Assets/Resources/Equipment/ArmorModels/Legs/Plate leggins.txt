@@ -1,0 +1,1 @@
+{"Type":"Legs","Id":301,"Name":"Plate leggins","Armor":15,"MeshName":"Plate leggins","Gender":2}
